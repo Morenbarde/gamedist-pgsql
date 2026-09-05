@@ -4,7 +4,7 @@ This projects defines a simple database for keeping track of a game distribution
 
 ## Motivation
 
-I chose this project partially because I wanted to learn PostgreSQL, and also because I am a long-time steam user who has interest in the mechanisms used to manage game distribution. My original plan for this project was to use the steam api to populate tables with a user's data, but I changed my plan after realizing:
+I chose this project partially because I wanted to learn PostgreSQL, and also because I am a long-time Steam user who has interest in the mechanisms used to manage game distribution. My original plan for this project was to use the steam api to populate tables with a user's data, but I changed my plan after realizing:
 
 - That plan would not be very interactive, as it would just be populating a table with data, rather than doing anything interesting with that data
 - That would require signing up for a steam api key to use, which I believe is outside the intended scope of this project
